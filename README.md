@@ -1,64 +1,32 @@
-<!-- GitHub Profile README for Carloj005 - Berserk-Inspired (Dark & Purple Style) -->
+<h1 align="center">Hi 👋, I'm Carlo</h1>
+<h3 align="center">A passionate Computer Science student who have the dream to work in CyberSec</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/DR1rD6y.png" alt="Guts in Berserker Armor" width="330" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloj005&label=Profile%20views&color=0e75b6&style=flat" alt="carloj005" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carloj005" alt="carloj005" /></a> </p>
+
+- 🔭 I’m currently working on [UninaSwap (i need to change the name)](https://github.com/Carloj005/ProgettoJavaSQLUni.git)
+
+- 🌱 I’m currently learning **Java, SQL**
+
+- 🤝 I’m looking for help with **CyberSec topics or University topics**
+
+- 💬 Ask me about **(I'm new XD)**
+
+- 📫 How to reach me **carlodegregorio05@gmail.com**
+
+- ⚡ Fun fact **I'm >18 but the people think i'm 15yr XD**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/carlodegregorio05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlodegregorio05" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">
-  <span style="color:#7d3cff">Carloj005</span>
-</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7D3CFF&center=true&vCenter=true&width=435&lines=Computer+Science+Student+at+Federico+II;Cybersecurity+Enthusiast;Dark+Berserk+Vibes" alt="Typing SVG" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloj005&show_icons=true&locale=en&layout=compact" alt="carloj005" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloj005&show_icons=true&locale=en" alt="carloj005" /></p>
 
-## 🛡️ About Me
-
-Hi! I'm **Carlo**, a Computer Science student at the University of Naples Federico II.<br>
-My goal is to become a <span style="color:#7d3cff"><b>cybersecurity expert</b></span>.<br>
-I love challenges and exploring the dark side of technology... just like Guts faces the shadows of his fate.
-
----
-
-## ⚔️ Main Skills
-
-- **Languages:** Java, SQL, Python, C (in progress)
-- **Cybersecurity:** Beginner (CTF, actively learning)
-- **Databases:** MySQL, SQLite
-- **Operating Systems:** Linux, Windows
-- **Others:** Git & GitHub, Problem Solving
-
----
-
-## 📌 Favorite Project
-
-[![Java SQL Uni Project](https://img.shields.io/badge/Java%20SQL%20Uni%20Project-7d3cff?style=for-the-badge&logo=github)](https://github.com/Carloj005/ProgettoJavaSQLUni.git)
-
-> University project in Java and SQL.<br>
-> Focused on data management and security.
-
----
-
-## 🕸️ Where to Find Me
-
-> _For now, no socials. Just code, study, and fighting the dark forces!_
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="120" alt="Berserk Dark Vibes" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dark%20Vibes-Berserk%20Style-7d3cff?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <i>“If you can’t obtain something by force, obtain it with determination.”</i>
-  <br>
-  <span style="color: #7d3cff">— Guts</span>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloj005&" alt="carloj005" /></p>
