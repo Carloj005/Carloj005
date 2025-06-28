@@ -1,12 +1,8 @@
-<!--
-🌑✨ Welcome to my Dark Violet Space! ✨🌑
--->
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Carlo+🦄;CyberSec+Dreamer+%7C+Code+Lover;Welcome+to+my+Dark+Violet+Space!&center=true&width=700&height=45&color=BA55D3&vCenter=true&size=28" />
+  <img src="https://4kwallpapers.com/images/wallpapers/berserker-armor-5k-4480x2520-13649.jpg" alt="Guts in Berserk Armor" width="420" style="border-radius:22px; box-shadow: 0 0 50px #8e44ad;">
   
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" /> Hi, I'm Carlo!
+    Hi, I'm Carlo!
   </h1>
   <h3 style="color:#C084FC;">A passionate Computer Science student obsessed with CyberSecurity, Dark Mode and Purple Aesthetics</h3>
   
@@ -27,7 +23,6 @@
 
 </div>
 
-<!-- About Me -->
 ```diff
 - 🔭 I’m currently working on: [UninaSwap (name change incoming!)](https://github.com/Carloj005/ProgettoJavaSQLUni.git)
 - 🌱 Learning: Java, SQL, and all the ways to break (and defend) systems!
@@ -68,11 +63,5 @@
 ---
 
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF2,BA55D3,8e44ad,4f006e&height=100&section=footer&text=Stay+in+the+Dark+(Theme)+Side&fontColor=fff&fontSize=25&animation=twinkling" />
-
 </div>
-
-<!--
-Feel free to reach out for collabs, purple cybersec memes, or just to chat! 
--->
