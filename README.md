@@ -1,32 +1,78 @@
-<h1 align="center">Hi 👋, I'm Carlo</h1>
-<h3 align="center">A passionate Computer Science student who have the dream to work in CyberSec</h3>
+<!--
+🌑✨ Welcome to my Dark Violet Space! ✨🌑
+-->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Carlo+🦄;CyberSec+Dreamer+%7C+Code+Lover;Welcome+to+my+Dark+Violet+Space!&center=true&width=700&height=45&color=BA55D3&vCenter=true&size=28" />
+  
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" /> Hi, I'm Carlo!
+  </h1>
+  <h3 style="color:#C084FC;">A passionate Computer Science student obsessed with CyberSecurity, Dark Mode and Purple Aesthetics</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=carloj005&label=Profile%20views&color=8e44ad&style=flat" alt="carloj005" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloj005&label=Profile%20views&color=0e75b6&style=flat" alt="carloj005" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carloj005" alt="carloj005" /></a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carloj005&theme=algolia&title=Stars,Followers,Commit,Repositories&margin-w=20&no-frame=true&column=4" alt="trophies" />
+</div>
 
-- 🔭 I’m currently working on [UninaSwap (i need to change the name)](https://github.com/Carloj005/ProgettoJavaSQLUni.git)
+---
 
-- 🌱 I’m currently learning **Java, SQL**
+<div align="center">
 
-- 🤝 I’m looking for help with **CyberSec topics or University topics**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF2,BA55D3,8e44ad,4f006e&height=120&section=header&text=Dark%20Violet%20CyberSec%20Zone&fontColor=fff&fontSize=35&animation=twinkling" />
 
-- 💬 Ask me about **(I'm new XD)**
+</div>
 
-- 📫 How to reach me **carlodegregorio05@gmail.com**
+<!-- About Me -->
+```diff
+- 🔭 I’m currently working on: [UninaSwap (name change incoming!)](https://github.com/Carloj005/ProgettoJavaSQLUni.git)
+- 🌱 Learning: Java, SQL, and all the ways to break (and defend) systems!
+- 🤝 Looking for: CyberSec collabs, Uni buddies, and purple-themed hackathons.
+- 💬 Ask me about: Anything! (I'm new, but love a challenge)
+- 📫 Reach me: carlodegregorio05@gmail.com
+- ⚡ Fun fact: I'm over 18 but people think I'm 15 😅
+```
 
-- ⚡ Fun fact **I'm >18 but the people think i'm 15yr XD**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/carlodegregorio05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlodegregorio05" height="30" width="40" /></a>
+<h3 align="center" style="color:#BA55D3;">✨ Connect with me!</h3>
+<p align="center">
+  <a href="https://instagram.com/carlodegregorio05" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%238a2be2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:carlodegregorio05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%234B0082.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloj005&show_icons=true&locale=en&layout=compact" alt="carloj005" /></p>
+<h3 align="center" style="color:#BA55D3;">🛠️ Languages & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,linux,bash,postgres,mysql,html,css,photoshop&theme=dark" height="50"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloj005&show_icons=true&locale=en" alt="carloj005" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloj005&" alt="carloj005" /></p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carloj005&show_icons=true&locale=en&layout=compact&theme=radical&title_color=BA55D3&icon_color=8e44ad" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carloj005&show_icons=true&theme=radical&title_color=BA55D3&icon_color=8e44ad" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carloj005&theme=radical&background=000000&ring=BA55D3&fire=8e44ad&currStreakLabel=fff" height="170" />
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF2,BA55D3,8e44ad,4f006e&height=100&section=footer&text=Stay+in+the+Dark+(Theme)+Side&fontColor=fff&fontSize=25&animation=twinkling" />
+
+</div>
+
+<!--
+Feel free to reach out for collabs, purple cybersec memes, or just to chat! 
+-->
