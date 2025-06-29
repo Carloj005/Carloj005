@@ -21,10 +21,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF2,BA55D3,8e44ad,4f006e&height=120&section=header&text=Dark%20Violet%20CyberSec%20Zone&fontColor=fff&fontSize=35&animation=twinkling" />
 </div>
 
-```diff
-- 🔭 I’m currently working on: [UninaSwap (name change incoming!)](https://github.com/Carloj005/ProgettoJavaSQLUni.git)
+```
+- 🔭 I’m currently working on: [UninaSwap (name change incoming!)] (https://github.com/Carloj005/ProgettoJavaSQLUni.git)
 - 🌱 Learning: Java, SQL, and all the ways to break (and defend) systems!
-- 🤝 Looking for: CyberSec collabs, Uni buddies, and purple-themed hackathons.
+- 🤝 Looking for: CyberSec content, Uni buddies, Naples CTF or CyberSec comunity/events.
 - 💬 Ask me about: Anything! (I'm new, but love a challenge)
 - 📫 Reach me: carlodegregorio05@gmail.com
 - ⚡ Fun fact: I'm over 18 but people think I'm 15 😅
