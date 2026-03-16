@@ -22,8 +22,8 @@
 </div>
 
 ```
-- 🔭 I’m currently working on: [UninaSwap (name change incoming!)] (https://github.com/Carloj005/ProgettoJavaSQLUni.git)
-- 🌱 Learning: Java, SQL, and all the ways to break (and defend) systems!
+- 🔭 I’m currently working on: Second Year
+- 🌱 Learning: Java, SQL, System Operative, and all the ways to break (and defend) systems!
 - 🤝 Looking for: CyberSec content, Uni buddies, Naples CTF or CyberSec comunity/events.
 - 💬 Ask me about: Anything! (I'm new, but love a challenge)
 - 📫 Reach me: carlodegregorio05@gmail.com
