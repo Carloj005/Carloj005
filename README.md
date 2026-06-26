@@ -103,7 +103,7 @@ network:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloj005&repo=carloj005&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloj005&repo=Genshin-AI-Brain&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloj005&repo=UNINA-INFORMATICA&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" width="48%"/>
 </div>
 
 ---
