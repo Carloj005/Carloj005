@@ -114,14 +114,6 @@ network:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carloj005&theme=algolia&no-frame=true&margin-w=12&column=4"/>
-</div>
-
----
-
 ## 📈 Network Activity
 
 <div align="center">
