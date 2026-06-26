@@ -48,7 +48,7 @@
   Fuel     :  Berserk marathons, caffeine & sheer stubbornness
 
 └─$ _
-```
+` ` `
 
 ---
 
@@ -100,7 +100,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carloj005&theme=algolia&title=Stars,Followers,Commit,Repositories&margin-w=15&no-frame=true&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=carloj005&theme=algolia&no-frame=true&margin-w=12&column=4"/>
 </div>
 
 ---
@@ -136,3 +136,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF2,BA55D3,8e44ad,4f006e&height=130&section=footer&text=Stay+in+the+Dark+(Theme)+Side&fontColor=ffffff&fontSize=24&animation=twinkling" width="100%"/>
 </div>
+```
+
+> ⚠️ **Nota:** nel blocco terminale `~/whoami`, le tre virgolette di chiusura vanno scritte **senza spazi** (`` ``` ``), le ho separate solo per non rompere il formato qui. Nel file finale devono essere `` ``` `` senza nulla in mezzo.
