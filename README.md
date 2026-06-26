@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/V3irJdN.jpeg" alt="Guts — Berserk" width="280"/>
+<img src="https://i.imgur.com/V3irJdN.jpeg" alt="Guts — Berserk" width="220" style="border-radius: 15px; border: 2px solid #8e44ad;"/>
 
 <br/><br/>
 
@@ -30,21 +30,21 @@
 
 ---
 
-## `~/whoami`
+## 💻 `~/whoami`
 
 ```bash
 ┌──(carlo㉿cybersec)-[~/profile]
-└─$ cat about.txt
+└─$ cat identity.sys
 
   Name     :  Carlo De Gregorio
-  Role     :  CS Student — Year 2
+  Role     :  CS Student @ DIETI — Federico II
   Focus    :  CyberSecurity (offense & defense)
-  OS       :  Linux main  |  Dark Mode: non-negotiable
+  OS       :  Omarchy Linux (Hyprland) | Dark Mode: Non-negotiable
   Theme    :  Purple. No exceptions. Ever.
   Location :  Naples, Italy 🍕
   Contact  :  carlodegregorio05@gmail.com
 
-  Fun Fact :  I'm legally 18+, yet people clock me at 15 😅
+  Fun Fact :  Legally 18+, visually 15 😅
   Fuel     :  Berserk marathons, caffeine & sheer stubbornness
 
 └─$ _
@@ -52,38 +52,53 @@
 
 ---
 
-## 🎯 Current Quests
+## 🎯 `cat ~/.config/mindset/active_tasks.yaml`
 
-| Quest | Progress |
-|-------|----------|
-| 🔐 CyberSecurity Fundamentals | `██████████░░░ 78%` |
-| ☕ Java & Object-Oriented Programming | `████████░░░░░ 65%` |
-| 🛢️ SQL & Databases | `███████░░░░░░ 58%` |
-| 🐧 Linux & OS Internals | `██████░░░░░░░ 52%` |
-| 🚩 CTF Challenges | `████░░░░░░░░░ 35%` |
+```yaml
+---
+status: "In Progress"
+core_objectives:
+  - title: "CyberSecurity Fundamentals"
+    type: "[Offense/Defense]"
+    status: "Gaining Root Access... 🔐"
+  
+  - title: "Linux Internals & Networking"
+    type: "[SysAdmin]"
+    status: "Tweaking Omarchy & Shell Scripts... 🐧"
 
-> 🌱 *Also navigating: networking protocols, system exploitation, and the art of not leaving traces.*  
-> 🤝 *Looking for: Naples CTF squads, uni buddies & CyberSec events. Hit me up!*
+  - title: "Java, OOP & Databases"
+    type: "[Software Dev]"
+    status: "Compiling and Querying... ☕🛢️"
+
+side_quests:
+  - "Building 'Genshin AI Brain' (MCP + Local LLM) 🧠"
+  - "Hunting flags in local CTF Challenges 🚩"
+
+network:
+  seeking: 
+    - "Naples-based CTF squads"
+    - "DIETI uni buddies"
+    - "InfoSec events"
+...
+```
 
 ---
 
 ## 🛠️ Arsenal
 
-**Languages & Scripting**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,bash,html,css&theme=dark" height="50"/>
+### > _Languages & Scripting_
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,bash,powershell,html,css&theme=dark" height="50"/>
 </p>
 
-**Systems, Databases & Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,postgres,mysql,photoshop&theme=dark" height="50"/>
+### > _Systems, Databases & Tools_
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,postgres,mysql,github,photoshop&theme=dark" height="50"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Telemetry Data
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carloj005&show_icons=true&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" height="165"/>
@@ -91,13 +106,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carloj005&layout=compact&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" height="165"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=carloj005&theme=radical&background=0d0d0d&ring=BA55D3&fire=8e44ad&currStreakLabel=ffffff&border=7B2FF2" height="165"/>
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carloj005&theme=algolia&no-frame=true&margin-w=12&column=4"/>
@@ -105,7 +122,7 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Network Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carloj005&bg_color=0d0d0d&color=BA55D3&line=7B2FF2&point=ffffff&area=true&border_color=7B2FF2" width="97%"/>
