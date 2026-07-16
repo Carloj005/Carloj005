@@ -1,0 +1,11 @@
+<svg width="800" height="50" viewBox="0 0 800 50" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d0d0d" />
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#8e44ad" stroke-width="4" />
+  <line x1="0" y1="50" x2="800" y2="50" stroke="#8e44ad" stroke-width="4" />
+  <g>
+    <text x="800" y="32" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#BA55D3" style="text-shadow: 2px 2px 0px #4f006e;">
+      *** DIETI-SEC PROUDLY PRESENTS *** CARLO'S GITHUB PROFILE *** CYBERSECURITY ENTHUSIAST *** ALWAYS IN DARK MODE *** GREETINGS TO ALL NAPLES CTF SQUADS *** COMPILING GENSHIN AI BRAIN... *** OMARCHY LINUX RUNNING *** PRE-HARDMODE STATUS: ACTIVE *** NO SYSTEM IS SAFE ***
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-2800 0" begin="0s" dur="15s" repeatCount="indefinite" />
+    </text>
+  </g>
+</svg>
