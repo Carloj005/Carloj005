@@ -32,17 +32,16 @@
 
 ## 🏴‍☠️ `~/whoami`
 
-```bash
+```text
 ┌──(carlo㉿cybersec)-[~/profile]
 └─$ cat release_info.nfo
 
- ▄████▄   ▄▄▄       ██▀███   ██▓     ▒█████   
-▒██▀ ▀█  ▒████▄    ▓██ ▒ ██▒▓██▒    ▒██▒  ██▒ 
-▒▓█    ▄ ▒██  ▀█▄  ▓██ ░▄█ ▒▒██░    ▒██░  ██▒ 
-▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██▀▀█▄  ▒██░    ▒██   ██░ 
-▒ ▓███▀ ░ ▓█   ▓██▒░██▓ ▒██▒░██████▒░ ████▓▒░ 
-░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ▒░▓  ░░ ▒░▒░▒░  
-  ░  ▒     ▒   ▒▒ ░  ░▒ ░ ▒░░ ░ ▒  ░  ░ ▒ ▒░  
+ ██████╗  █████╗ ██████╗ ██╗      ██████╗ 
+██╔════╝ ██╔══██╗██╔══██╗██║     ██╔═══██╗
+██║      ███████║██████╔╝██║     ██║   ██║
+██║      ██╔══██║██╔══██╗██║     ██║   ██║
+╚██████╗ ██║  ██║██║  ██║███████╗╚██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ 
 ------------------------------------------------
 [ RELEASE ]..: PROFILE_CORE_v1.0.tar.gz
 [ CRACKER ]..: CARLO DE GREGORIO (a.k.a carloj005)
@@ -54,7 +53,9 @@
 > BYPASSING MAINFRAME... [ OK ]
 > INJECTING DARK MODE... [ OK ]
 > ENCRYPTING PAYLOAD.... [ OK ]
+```
 
+```bash
 ┌──(carlo㉿cybersec)-[~/profile]
 └─$ cat identity.sys
 
@@ -70,6 +71,13 @@
   Fuel     :  Berserk marathons, caffeine & sheer stubbornness
 
 └─$ _
+```
+
+---
+
+## 🎯 `cat ~/.config/mindset/active_tasks.yaml`
+
+```yaml
 ---
 status: "In Progress"
 core_objectives:
@@ -95,3 +103,86 @@ network:
     - "DIETI uni buddies"
     - "InfoSec events"
 ...
+```
+
+---
+
+## 🛠️ Arsenal
+
+### > _Languages & Scripting_
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,bash,powershell,html,css&theme=dark" height="50"/>
+</p>
+
+### > _Systems, Databases & Tools_
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,postgres,mysql,github,photoshop&theme=dark" height="50"/>
+</p>
+
+---
+
+## 🛡️ Skill Tree & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloj005&repo=ProgettoAPSD&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carloj005&repo=UNINA-INFORMATICA&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" width="48%"/>
+</div>
+
+---
+
+## 📊 Telemetry Data
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carloj005&show_icons=true&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carloj005&layout=compact&theme=radical&title_color=BA55D3&icon_color=8e44ad&border_color=7B2FF2&bg_color=0d0d0d" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carloj005&theme=radical&background=0d0d0d&ring=BA55D3&fire=8e44ad&currStreakLabel=ffffff&border=7B2FF2" height="165"/>
+</div>
+
+---
+
+## 📈 Network Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carloj005&bg_color=0d0d0d&color=BA55D3&line=7B2FF2&point=ffffff&area=true&border_color=7B2FF2" width="97%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloj005/carloj005/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloj005/carloj005/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/carloj005/carloj005/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+*"A swordsman doesn't need a reason to keep walking forward."*
+
+**— Guts, Berserk**
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./cracktro.svg" alt="Cracktro Scroller" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF2,BA55D3,8e44ad,4f006e&height=130&section=footer&text=Stay+in+the+Dark+(Theme)+Side&fontColor=ffffff&fontSize=24&animation=twinkling" width="100%"/>
+</div>
