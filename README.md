@@ -70,3 +70,28 @@
   Fuel     :  Berserk marathons, caffeine & sheer stubbornness
 
 └─$ _
+---
+status: "In Progress"
+core_objectives:
+  - title: "CyberSecurity Fundamentals"
+    type: "[Offense/Defense]"
+    status: "Gaining Root Access... 🔐"
+  
+  - title: "Linux Internals & Networking"
+    type: "[SysAdmin]"
+    status: "Tweaking Omarchy & Shell Scripts... 🐧"
+
+  - title: "Java, OOP & Databases"
+    type: "[Software Dev]"
+    status: "Compiling and Querying... ☕🛢️"
+
+side_quests:
+  - "Building 'Genshin AI Brain' (MCP + Local LLM) 🧠"
+  - "Hunting flags in local CTF Challenges 🚩"
+
+network:
+  seeking: 
+    - "Naples-based CTF squads"
+    - "DIETI uni buddies"
+    - "InfoSec events"
+...
